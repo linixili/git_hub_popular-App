@@ -1,0 +1,23 @@
+[
+  {
+    "path":"stars:>1",
+    "name":"All",
+    "short_name":"ALl",
+    "checked":false
+  },
+  {
+    "path":"iOS",
+    "name":"iOS",
+    "checked":true
+  },
+  {
+    "path":"Vue",
+    "name":"Vue",
+    "checked":true
+  },
+  {
+    "path":"Android",
+    "name":"Android",
+    "checked":true
+  }
+]
